@@ -4,6 +4,8 @@ This specification describes the requirements for continuous software delivery (
 
 This specification can be used as a guide to implement software delivery in your organization. You can create pipeline and repos that adhere to this specification.
 
+![](dragon-small.png)
+
 # Specification
 
 This specification describes 3 key components
